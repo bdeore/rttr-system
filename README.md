@@ -16,7 +16,7 @@ Every day, millions of people rely on public transport systems to travel which a
 
 # System Components 
 
-**Java based Desktop Client**: Java generates bytecode files that are platform independent and hence is the obvious choice for the Application language. An application interface has been created on java platform that pulls the data uploaded to MySQL server by ground units and processes it with the help of algorithms. It evaluates density of commuters and assigns proper priorities to different bus routes. It also has a section for emergencies such as vehicle breakdown or accidents. In such circumstances, action can be taken promptly without any further delay.
+**Java based Desktop Client**: Java generates bytecode files that are platform independent and hence is the obvious choice for the Application language. An application interface has been created on java platform that pulls the data uploaded to MySQL server by Bus Microcontroller Units and processes it with the help of algorithms. It evaluates density of commuters and assigns proper priorities to different bus routes. It also has a section for emergencies such as vehicle breakdown or accidents. In such circumstances, action can be taken promptly without any further delay.
 
 
 **Standalone Microcntroller devices installed on Bus**: An ARM7 based system is installed on each bus that has communication capability and uploads data to the MySQL server with the help of ESP8266. It also has provisions to perform some additional functions. These functions include sending current location to the server, relaying messages in case of breakdown or emergency, notifying central server of extreme traffic congestion.
