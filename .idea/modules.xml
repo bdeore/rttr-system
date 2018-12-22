@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/library Files/rterp-GMapsFX-4623d3f/GMapsFX/GMapsFX.iml" filepath="$PROJECT_DIR$/library Files/rterp-GMapsFX-4623d3f/GMapsFX/GMapsFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home.iml" filepath="$PROJECT_DIR$/home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jfoenix/jfoenix.iml" filepath="$PROJECT_DIR$/.idea/modules/jfoenix/jfoenix.iml" group="jfoenix" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jfoenix-root.iml" filepath="$PROJECT_DIR$/.idea/modules/jfoenix-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jfoenix/jfoenix_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jfoenix/jfoenix_main.iml" group="jfoenix" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jfoenix/jfoenix_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jfoenix/jfoenix_test.iml" group="jfoenix" />
+    </modules>
+  </component>
+</project>

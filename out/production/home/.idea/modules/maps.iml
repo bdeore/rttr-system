@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="maps" external.linked.project.path="$MODULE_DIR$/../../../maps-master/maps-master" external.root.project.path="$MODULE_DIR$/../../../maps-master/maps-master" external.system.id="GRADLE" external.system.module.group="com.gluonhq" external.system.module.version="1.0.2-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/../../../maps-master/maps-master/gen" />
+        <option name="GEN_FOLDER_RELATIVE_PATH_AIDL" value="/../../../maps-master/maps-master/gen" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../../../maps-master/maps-master/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/../../../maps-master/maps-master/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../../../maps-master/maps-master/assets" />
+        <option name="LIBS_FOLDER_RELATIVE_PATH" value="/../../../maps-master/maps-master/libs" />
+        <option name="PROGUARD_LOGS_FOLDER_RELATIVE_PATH" value="/../../../maps-master/maps-master/proguard_logs" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../maps-master/maps-master/out/production/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../maps-master/maps-master/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../maps-master/maps-master">
+      <sourceFolder url="file://$MODULE_DIR$/../../../maps-master/maps-master/src/android/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../maps-master/maps-master/src/desktop/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../maps-master/maps-master/src/embedded/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../maps-master/maps-master/src/ios/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../maps-master/maps-master/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../maps-master/maps-master/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../maps-master/maps-master/src/android/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../maps-master/maps-master/src/desktop/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../maps-master/maps-master/src/embedded/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../maps-master/maps-master/src/ios/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../maps-master/maps-master/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../maps-master/maps-master/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../maps-master/maps-master/gen" isTestSource="false" generated="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../maps-master/maps-master/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../maps-master/maps-master/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../maps-master/maps-master/out" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: com.gluonhq:charm-down-plugin-position:3.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: com.gluonhq:charm-down-plugin-storage:3.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: com.gluonhq:charm-down-core:3.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: com.gluonhq:charm-down-plugin-position:3.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: com.gluonhq:charm-down-plugin-storage:3.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: com.gluonhq:charm-down-core:3.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: com.gluonhq:charm-down-plugin-position:3.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: com.gluonhq:charm-down-plugin-storage:3.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: com.gluonhq:charm-down-core:3.0.0" level="project" />
+  </component>
+</module>

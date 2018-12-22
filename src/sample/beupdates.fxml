@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<!--
+  ~ Copyright (c)  @Author :Suyog Deore
+  ~ Reproduction or redistribution of Following Codes -or-
+  ~ Libraries without proper permissions is liable to Prosecution.
+  -->
+
+<AnchorPane prefHeight="633.0" prefWidth="996.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <ImageView fitHeight="650.0" fitWidth="996.0" layoutX="136.0" layoutY="6.0" pickOnBounds="true" preserveRatio="true" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <image>
+            <Image url="file:/E:/Resources/Workspace/Project%20Codes/home/Images/beupda1.png" />
+         </image>
+      </ImageView>
+      <JFXButton fx:id="btnupdates" layoutX="445.0" layoutY="231.0" onAction="#loadbeupdatesgrid" prefHeight="98.0" prefWidth="107.0" ripplerFill="#e43445" textFill="#3598db">
+         <font>
+            <Font name="Modern Sans" size="1.0" />
+         </font>
+      </JFXButton>
+   </children>
+</AnchorPane>

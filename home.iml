@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_9" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="9.0" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="mysql-connector-java-5.1.45-bin" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.googlecode.json-simple:json-simple:1.1.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: junit:junit:4.10" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.hamcrest:hamcrest-core:1.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: de.jensd:fontawesomefx-commons:8.15" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: io.datafx:flow:8.0.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: io.datafx:datafx:8.0.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: de.jensd:fontawesomefx-fontawesome:4.7.0-5" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: io.datafx:core:8.0.1" level="project" />
+    <orderEntry type="library" exported="" name="JDBC" level="application" />
+    <orderEntry type="module" module-name="jfoenix-root" exported="" />
+    <orderEntry type="library" exported="" name="jfoenix-9.0.0" level="project" />
+    <orderEntry type="module" module-name="GMapsFX" exported="" />
+  </component>
+</module>
