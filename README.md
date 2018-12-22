@@ -34,14 +34,16 @@ Every day, millions of people rely on public transport systems to travel which a
 # Dashboard
 ![](Images/5.JPG)
 
-# Analysis
+# Bus Route Search
 ![](Images/6.JPG)
 
-# Track Assets
+
+# Analysis
+
 ![](Images/7.JPG)
 
-
+# Track Assets
 ![](Images/9.JPG)
 
-# Google Maps Integration
+# Integrated Google Maps
 ![](Images/10.JPG)
