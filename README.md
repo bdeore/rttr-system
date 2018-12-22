@@ -18,7 +18,6 @@ Every day, millions of people rely on public transport systems to travel which a
 
 ![](Images/3.JPG)
 
-![](Images/4.JPG)
 
 ![](Images/5.JPG)
 
