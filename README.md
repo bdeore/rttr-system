@@ -50,10 +50,11 @@ Every day, millions of people rely on public transport systems to travel which a
 # Integrated Google Maps
 ![](Images/10.JPG)
 
-**Credits**
-Libraries Used:
+# Credits
+
+**Libraries Used:**
 
 1) GMapsFX (Google Maps Library)
 2) JFoenix (Material Design)
-
-Thank You!
+3) Freepik (Icons)
+**Thank You!**
