@@ -25,18 +25,23 @@ Every day, millions of people rely on public transport systems to travel which a
 
 **Centralized Database for Storing Information**: A MySQL Database is in charge of storing data received from microcontrollers installed on buses and bus stops. Google Cloud Platform(GCP) is being used for storing SQL Instance. Each microcontroller has a pre-defined database table assigned to it. This data also acts as historic data in the future. MySQL has relational database structure which allows us to store information in tabular form. Secure Socket Layer (SSL) is being used for Encryption for transferred data. 
 
-
+# Cloud Based Authentication
 ![](Images/1.JPG)
 
+# Registration
 ![](Images/3.JPG)
 
-
+# Dashboard
 ![](Images/5.JPG)
 
+# Analysis
 ![](Images/6.JPG)
 
+# Track Assets
 ![](Images/7.JPG)
+
 
 ![](Images/9.JPG)
 
+# Google Maps Integration
 ![](Images/10.JPG)
