@@ -2,7 +2,7 @@
 
 **Created by: Bhagwan Sanjay Deore (Sinhgad Academy of Engineering)**
 
-Every day, millions of people rely on public transport systems to travel which are managed by government. It is cost efficient way to commute, but a highly unreliable one. More often than not, buses are packed on some routes, while are empty on others. Our aim is to change this scenario by making use of analytics. This system takes into account the number of people travelling on a particular route and then assigns priority to routes accordingly. Different algorithms are used to address density of commuters on the route. 
+Every day, millions of people rely on public transport systems to travel which are managed by government. It is cost efficient way to commute, but a highly unreliable one. More often than not, buses are packed on some routes, while are empty on others.  Aim of this project is to change this scenario by making use of analytics. This system takes into account the number of people travelling on a particular route and then assigns priority to routes accordingly. Different algorithms are used to address density of commuters on the route. 
 
 
  Real-Time Transit Redirection System consists of four important components which are interconnected. These components are:
