@@ -2,8 +2,9 @@
 
 **Created by: Bhagwan Sanjay Deore (Sinhgad Academy of Engineering)**
 
-**Technologies Used:** Software - Java, JavaFx, Embedded C, GCP.
-                       Hardware - ARM7 Microcontrollers, ESP8266 nodemcu, SIM808 Module, PIR Motion Sensors, GLCD.
+**Technologies Used:** 
+Software - Java, JavaFx, MySQL, Embedded C, GCP.
+Hardware - ARM7 Microcontrollers, ESP8266 nodemcu, SIM808 Module, PIR Motion Sensors, GLCD.
 
 Every day, millions of people rely on public transport systems to travel which are managed by government. It is cost efficient way to commute, but a highly unreliable one. More often than not, buses are packed on some routes, while are empty on others.  Aim of this project is to change this scenario by making use of analytics. This system takes into account the number of people travelling on a particular route and then assigns priority to routes accordingly. Different algorithms are used to address density of commuters on the route. 
 
