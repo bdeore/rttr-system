@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXComboBox?>
+<?import com.jfoenix.controls.JFXDatePicker?>
+<?import com.jfoenix.controls.JFXTimePicker?>
+<?import com.jfoenix.validation.RequiredFieldValidator?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="633.0" prefWidth="996.0" style="-fx-background-color: f5f5f5;" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.trackingController">
+   <children>
+      <ImageView fitHeight="633.0" fitWidth="996.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="file:/E:/Resources/Workspace/Project%20Codes/home/Images/trackingwindow.png" />
+         </image>
+      </ImageView>
+      <JFXDatePicker fx:id="datePicker" defaultColor="#558be8" layoutX="415.0" layoutY="472.0" prefHeight="25.0" prefWidth="230.0" promptText="Select Date" style="-fx-font-size: 15px; -fx-background-color: f5f5f5;" />
+      <JFXTimePicker fx:id="timePicker" defaultColor="#6b94f5" layoutX="717.0" layoutY="472.0" promptText="Select Time" style="-fx-font-size: 15px;" />
+      <RequiredFieldValidator layoutX="455.0" layoutY="169.0" message="Mandatory to proceed" />
+      <JFXButton buttonType="RAISED" layoutX="455.0" layoutY="548.0" onAction="#loadMaps" prefHeight="40.0" prefWidth="107.0" ripplerFill="#f6f7f8" style="-fx-background-color: #689bda;" text="Track" textFill="WHITE">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </JFXButton>
+      <JFXComboBox fx:id="busid" focusColor="#558be8" layoutX="82.0" layoutY="469.0" prefHeight="31.0" prefWidth="230.0" promptText="  Select Bus ID" style="-fx-font-size: 16px;" />
+
+   </children>
+</AnchorPane>

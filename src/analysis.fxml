@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<!--
+  ~ Copyright (c)  @Author :Suyog Deore
+  ~ Reproduction or redistribution of Following Codes -or- 
+  ~ Libraries without proper permissions is liable to Prosecution.
+  -->
+
+<AnchorPane prefHeight="633.0" prefWidth="996.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.analysisController">
+   <children>
+      <TableView fx:id="tableView" cache="true" cacheHint="QUALITY" editable="true" layoutX="14.0" layoutY="114.0" prefHeight="510.0" prefWidth="981.0" stylesheets="@dark.css" tableMenuButtonVisible="true">
+         <columns>
+            <TableColumn fx:id="columnT" maxWidth="120.0" minWidth="120.0" prefWidth="113.0" text="Time" />
+            <TableColumn fx:id="columnTNOP" maxWidth="130.0" minWidth="130.0" prefWidth="0.0" text="Total NOP" />
+            <TableColumn fx:id="column1" maxWidth="60.0" minWidth="50.0" prefWidth="60.0" text="1" />
+            <TableColumn fx:id="column2" maxWidth="68.0" minWidth="40.0" prefWidth="55.0" text="2" />
+            <TableColumn fx:id="column3" maxWidth="55.0" minWidth="31.0" prefWidth="55.0" text="3" />
+            <TableColumn fx:id="column4" maxWidth="57.0" minWidth="34.0" prefWidth="57.0" text="4" />
+            <TableColumn fx:id="column5" maxWidth="68.0" minWidth="41.0" prefWidth="53.0" text="5" />
+            <TableColumn fx:id="column6" maxWidth="64.0" minWidth="31.0" prefWidth="64.0" text="6" />
+            <TableColumn fx:id="column7" maxWidth="50.0" minWidth="50.0" prefWidth="176.0" text="7" />
+            <TableColumn fx:id="column8" maxWidth="67.0" minWidth="50.0" prefWidth="61.0" text="8" />
+            <TableColumn fx:id="column9" maxWidth="50.0" minWidth="33.0" prefWidth="39.0" text="9" />
+            <TableColumn fx:id="column10" maxWidth="50.0" minWidth="50.0" prefWidth="176.0" text="10" />
+            <TableColumn fx:id="column11" maxWidth="50.0" minWidth="50.0" prefWidth="176.0" text="11" />
+            <TableColumn fx:id="column12" maxWidth="50.0" minWidth="50.0" prefWidth="176.0" text="12" />
+         </columns>
+         <columnResizePolicy>
+            <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+         </columnResizePolicy>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </TableView>
+      <JFXTextField fx:id="filterInput1" focusColor="#5494f9" layoutX="87.0" layoutY="37.0" prefHeight="45.0" prefWidth="0.0" promptText="   SEARCH  " unFocusColor="#59cdcd">
+         <font>
+            <Font size="16.0" />
+         </font>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+      </JFXTextField>
+      <JFXButton fx:id="startButton1" buttonType="RAISED" layoutX="439.0" layoutY="46.0" onAction="#loadDataFromDatabase1" prefHeight="45.0" prefWidth="118.0" ripplerFill="WHITE" style="-fx-background-color: #689bda;" text="LOAD" textFill="WHITE">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </JFXButton>
+   </children>
+</AnchorPane>
