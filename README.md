@@ -11,7 +11,7 @@ Every day, millions of people rely on public transport systems to travel which a
  Real-Time Transit Redirection System consists of four important components which are interconnected. These components are:
 
 1)	Java based Desktop Client.
-2)	Standalone Microcntroller devices installed on Bus.
+2)	Standalone Microcontroller devices installed on Bus.
 3)	Interconnected Microcontroller Units installed on Bus-Stops.
 4)	Centralized Database for Storing Information (Google Cloud Platform) .
  
