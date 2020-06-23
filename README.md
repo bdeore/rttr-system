@@ -1,6 +1,5 @@
 # Real Time Transit Redirection System (RTTRS)
 
-**Created by: Bhagwan Sanjay Deore (Sinhgad Academy of Engineering)**
 
 **Technologies Used:** 
 Software - Java, JavaFx, MySQL, Embedded C, GCP.
@@ -60,4 +59,5 @@ Every day, millions of people rely on public transport systems to travel which a
 2) JFoenix (Material Design)
 3) Freepik (Icons)
 
+**Created by: Bhagwan Sanjay Deore **
 # Thank You!
