@@ -59,5 +59,5 @@ Every day, millions of people rely on public transport systems to travel which a
 2) JFoenix (Material Design)
 3) Freepik (Icons)
 
-**Created by: Bhagwan Sanjay Deore **
+**Created by: Bhagwan Sanjay Deore**
 # Thank You!
