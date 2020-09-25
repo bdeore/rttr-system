@@ -17,6 +17,26 @@ Every day, millions of people rely on public transport systems to travel which a
  
  All of these units are automated in their functions and provide data directly to client application platform. This data will be further processed by use of algorithms and will directly provide actionable insights.
 
+# Cloud Based Identity & Acess Management
+![](Images/3.JPG)
+
+# Dashboard
+![](Images/5.JPG)
+
+# Bus Route Search
+![](Images/6.JPG)
+
+# Analysis (Individual Bus Stops)
+
+![](Images/7.JPG)
+
+# Track Assets (Exact Bus Locations)
+![](Images/9.JPG)
+
+# Integrated Google Maps
+![](Images/10.JPG)
+
+
 # System Components 
 
 **Java based Desktop Client**: Java generates bytecode files that are platform independent and hence is the obvious choice for the Application language. An application interface has been created on java platform that pulls the data uploaded to MySQL server by Bus Microcontroller Units and processes it with the help of algorithms. It evaluates density of commuters and assigns proper priorities to different bus routes. It also has a section for emergencies such as vehicle breakdown or accidents. In such circumstances, action can be taken promptly without any further delay.
@@ -31,25 +51,6 @@ Every day, millions of people rely on public transport systems to travel which a
 **Centralized Database for Storing Information**: A MySQL Database is in charge of storing data received from microcontrollers installed on buses and bus stops. Google Cloud Platform(GCP) is being used for storing SQL Instance. Each microcontroller has a pre-defined database table assigned to it. This data also acts as historic data in the future. MySQL has relational database structure which allows us to store information in tabular form. Secure Socket Layer (SSL) is being used for Encryption for transferred data. 
 
 
-# Cloud Based Authentication & Registration
-![](Images/3.JPG)
-
-# Dashboard
-![](Images/5.JPG)
-
-# Bus Route Search
-![](Images/6.JPG)
-
-
-# Analysis (Individual Bus Stops)
-
-![](Images/7.JPG)
-
-# Track Assets (Exact Bus Locations)
-![](Images/9.JPG)
-
-# Integrated Google Maps
-![](Images/10.JPG)
 
 # Credits
 
